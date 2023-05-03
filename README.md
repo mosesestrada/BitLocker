@@ -2,7 +2,7 @@
  <img src="https://i.imgur.com/uuMFm0V.jpg" height="80%" width="80%" alt="VM logo"/>
 </p>
 
-<h1> EnableBitLocker</h1>
+<h1> Enable BitLocker</h1>
 
 
 <h2>Description</h2>
