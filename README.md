@@ -2,7 +2,7 @@
  <img src="https://i.imgur.com/uuMFm0V.jpg" height="80%" width="80%" alt="VM logo"/>
 </p>
 
-<h1>Folder Encryption</h1>
+<h1> EnableBitLocker</h1>
 
 
 <h2>Description</h2>
@@ -15,7 +15,7 @@ In today's demo, we're going to show you how to enable BitLocker and take your d
 
 <h2>Environments Used </h2>
 
- <b>Windows Server 2019 </b> <p>
+ <b>Windows 10 Pro</b> <p>
 
 
 <h2>Program walk-through:</h2>
