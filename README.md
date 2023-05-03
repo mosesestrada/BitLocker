@@ -60,8 +60,7 @@ That's it! You're done. BitLocker is now enabled and the padlock now shows next 
 <img src="https://i.imgur.com/F6YDJwp.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-
- I hope you enjoyed this demonstration.
+I hope you enjoyed this demonstration.
  <br/>
 <img src="https://i.imgur.com/uv6M2Pv.jpg" height="80%" width="80%" alt="DHCP"/>
 <br />
