@@ -24,54 +24,43 @@ In today's demo, we're going to show you how to enable BitLocker and take your d
 
 
 <br />
-Right-click the folder you wish to encrypt. In this example I will be encrypting the folder "Secret" and then select Properties.
+Your first step is to log into your EUFI-BIOS. Check your motherboard documentation or google how to log into yours. Look for TPM security and make sure it's selected for enable. Hit apply and reboot your system.
  <br/>
-<img src="https://i.imgur.com/MlxMaIn.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/bDlsLhu.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-Select Advanced.
+Once you log into Windows, search or locate the control panel. Then select system and security.
  <br/>
-<img src="https://i.imgur.com/bQfRzXB.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/OBC7u3x.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-Select Encrypt contents to secure data and then select OK.
+Select BitLocker Drive Encryption.
  <br/>
-<img src="https://i.imgur.com/nouP76P.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/AJKJXvA.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-The lock tells us the file is now encrypted.
+Select Turn on Bitlocker.
 <br/>
-<img src="https://i.imgur.com/UHmcKvO.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/1dXsFAl.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-Right click the file you want to give authorized user rights to. In this example we will be using the 2019report.xls excel file. Click properties.
+Select encrypt the entire drive.
  <br/>
-<img src="https://i.imgur.com/lV6ybA0.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/15y0bK2.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-Select Advanced.
+Select Start Encrypting.
 
  <br/>
-<img src="https://i.imgur.com/pfSTAIR.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/fbmb4PZ.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-Select Details.
+That's it! You're done. BitLocker is now enabled and the padlock now shows next to the encrypted drive.
  <br/>
-<img src="https://i.imgur.com/t1GKhqE.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/F6YDJwp.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-Select Add.
-Select the user you wish to give authorized user rights to and then select OK.
 
- <br/>
-<img src="https://i.imgur.com/YGDWMNr.png" height="80%" width="80%" alt="DHCP"/>
-<br />
-<br />
-User has been added. Please Ok to close all open prompts. We are finished.
- <br/>
-<img src="https://i.imgur.com/qOlVafS.png" height="80%" width="80%" alt="DHCP"/>
-<br />
-<br />
  I hope you enjoyed this demonstration.
  <br/>
 <img src="https://i.imgur.com/uv6M2Pv.jpg" height="80%" width="80%" alt="DHCP"/>
