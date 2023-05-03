@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/KYCbv8H.jpg" height="80%" width="80%" alt="VM logo"/>
+ <img src="https://i.imgur.com/uuMFm0V.jpg" height="80%" width="80%" alt="VM logo"/>
 </p>
 
 <h1>Folder Encryption</h1>
@@ -62,7 +62,7 @@ That's it! You're done. BitLocker is now enabled and the padlock now shows next 
 <br />
 I hope you enjoyed this demonstration.
  <br/>
-<img src="https://i.imgur.com/uv6M2Pv.jpg" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/sC1z53J.jpg" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
  
