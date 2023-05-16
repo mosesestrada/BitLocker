@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/uuMFm0V.jpg" height="80%" width="80%" alt="VM logo"/>
+ <img src="https://i.imgur.com/bmKw4eN.jpg" height="80%" width="80%" alt="bitlocker logo"/>
 </p>
 
 <h1> Enable BitLocker</h1>
@@ -26,43 +26,43 @@ In today's demo, we're going to show you how to enable BitLocker and take your d
 <br />
 Your first step is to log into your EUFI-BIOS. Check your motherboard documentation or google how to log into yours. Look for TPM security and make sure it's selected for enable. Hit apply and reboot your system.
  <br/>
-<img src="https://i.imgur.com/bDlsLhu.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/T0iMZao.png" height="80%" width="80%" alt="bitlocker"/>
 <br />
 <br />
 Once you log into Windows, search or locate the control panel. Then select system and security.
  <br/>
-<img src="https://i.imgur.com/OBC7u3x.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/XiA1hCw.png" height="80%" width="80%" alt="bitlocker"/>
 <br />
 <br />
 Select BitLocker Drive Encryption.
  <br/>
-<img src="https://i.imgur.com/AJKJXvA.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/Tsut1Hz.png" height="80%" width="80%" alt="bitlocker"/>
 <br />
 <br />
 Select Turn on Bitlocker.
 <br/>
-<img src="https://i.imgur.com/1dXsFAl.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/7vw2JJp.png" height="80%" width="80%" alt="bitlocker"/>
 <br />
 <br />
-Select encrypt the entire drive.
+Select encrypt the entire drive then hit next.
  <br/>
-<img src="https://i.imgur.com/15y0bK2.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/5CEAoB9.png" height="80%" width="80%" alt="bitlocker"/>
 <br />
 <br />
 Select Start Encrypting.
 
  <br/>
-<img src="https://i.imgur.com/fbmb4PZ.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/WHRm6HB.png" height="80%" width="80%" alt="bitlocker"/>
 <br />
 <br />
 That's it! You're done. BitLocker is now enabled and the padlock now shows next to the encrypted drive.
  <br/>
-<img src="https://i.imgur.com/F6YDJwp.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/vgZePIp.png" height="80%" width="80%" alt="bitlocker"/>
 <br />
 <br />
 I hope you enjoyed this demonstration.
  <br/>
-<img src="https://i.imgur.com/M74IzlQ.jpg" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/KUkKcZN.jpg" height="80%" width="80%" alt="bitlocker"/>
 <br />
 <br />
  
