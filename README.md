@@ -24,7 +24,7 @@ In today's demo, we're going to show you how to enable BitLocker and take your d
 
 
 <br />
-Your first step is to log into your EUFI-BIOS. Check your motherboard documentation or google how to log into yours. Look for TPM security and make sure it's selected for enable. Hit apply and reboot your system.
+Your first step is to log into your UEFI/BIOS. Check your motherboard documentation or google how to log into yours. Look for TPM security and make sure it's selected for enable. Hit apply and reboot your system.
  <br/>
 <img src="https://i.imgur.com/T0iMZao.png" height="80%" width="80%" alt="bitlocker"/>
 <br />
